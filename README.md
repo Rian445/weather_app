@@ -8,7 +8,7 @@ Created a weather app using Flutter that fetches real-time weather data via an A
 ## Screenshots
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/sc1.jpg" width="300" />
-  <img src="assets/sc2.jpg" width="300" />
-  <img src="assets/sc3.jpg" width="300" />
+  <img src="Assets/sc1.jpg" width="300" />
+  <img src="Assets/sc2.jpg" width="300" />
+  <img src="Assets/sc3.jpg" width="300" />
 </div>
